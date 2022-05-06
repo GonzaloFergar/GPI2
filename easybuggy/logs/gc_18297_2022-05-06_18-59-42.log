@@ -1,0 +1,149 @@
+[2022-05-06T18:59:43.027+0200][info][gc] Using Serial
+[2022-05-06T18:59:43.027+0200][info][gc,heap,coops] Heap address: 0x00000000f0000000, size: 256 MB, Compressed Oops mode: 32-bit
+[2022-05-06T18:59:43.744+0200][info][gc,start     ] GC(0) Pause Young (Allocation Failure)
+[2022-05-06T18:59:43.758+0200][info][gc,heap      ] GC(0) DefNew: 17472K->2176K(19648K)
+[2022-05-06T18:59:43.758+0200][info][gc,heap      ] GC(0) Tenured: 0K->1731K(43712K)
+[2022-05-06T18:59:43.758+0200][info][gc,metaspace ] GC(0) Metaspace: 7750K->7750K(131072K)
+[2022-05-06T18:59:43.758+0200][info][gc           ] GC(0) Pause Young (Allocation Failure) 17M->3M(61M) 14,940ms
+[2022-05-06T18:59:43.759+0200][info][gc,cpu       ] GC(0) User=0,02s Sys=0,00s Real=0,01s
+[2022-05-06T18:59:44.429+0200][info][gc,start     ] GC(1) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.446+0200][info][gc,heap      ] GC(1) DefNew: 19648K->2176K(19648K)
+[2022-05-06T18:59:44.446+0200][info][gc,heap      ] GC(1) Tenured: 1731K->4996K(43712K)
+[2022-05-06T18:59:44.446+0200][info][gc,metaspace ] GC(1) Metaspace: 10923K->10923K(133120K)
+[2022-05-06T18:59:44.446+0200][info][gc           ] GC(1) Pause Young (Allocation Failure) 20M->7M(61M) 16,924ms
+[2022-05-06T18:59:44.446+0200][info][gc,cpu       ] GC(1) User=0,03s Sys=0,01s Real=0,02s
+[2022-05-06T18:59:44.590+0200][info][gc,start     ] GC(2) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.597+0200][info][gc,heap      ] GC(2) DefNew: 19648K->374K(19648K)
+[2022-05-06T18:59:44.597+0200][info][gc,heap      ] GC(2) Tenured: 4996K->7163K(43712K)
+[2022-05-06T18:59:44.597+0200][info][gc,metaspace ] GC(2) Metaspace: 11419K->11419K(135168K)
+[2022-05-06T18:59:44.597+0200][info][gc           ] GC(2) Pause Young (Allocation Failure) 24M->7M(61M) 7,379ms
+[2022-05-06T18:59:44.597+0200][info][gc,cpu       ] GC(2) User=0,01s Sys=0,00s Real=0,01s
+[2022-05-06T18:59:44.658+0200][info][gc,start     ] GC(3) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.661+0200][info][gc,heap      ] GC(3) DefNew: 17846K->342K(19648K)
+[2022-05-06T18:59:44.661+0200][info][gc,heap      ] GC(3) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:44.661+0200][info][gc,metaspace ] GC(3) Metaspace: 11441K->11441K(135168K)
+[2022-05-06T18:59:44.661+0200][info][gc           ] GC(3) Pause Young (Allocation Failure) 24M->7M(61M) 2,481ms
+[2022-05-06T18:59:44.661+0200][info][gc,cpu       ] GC(3) User=0,01s Sys=0,01s Real=0,00s
+[2022-05-06T18:59:44.718+0200][info][gc,start     ] GC(4) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.720+0200][info][gc,heap      ] GC(4) DefNew: 17814K->381K(19648K)
+[2022-05-06T18:59:44.720+0200][info][gc,heap      ] GC(4) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:44.720+0200][info][gc,metaspace ] GC(4) Metaspace: 11443K->11443K(135168K)
+[2022-05-06T18:59:44.720+0200][info][gc           ] GC(4) Pause Young (Allocation Failure) 24M->7M(61M) 1,847ms
+[2022-05-06T18:59:44.720+0200][info][gc,cpu       ] GC(4) User=0,00s Sys=0,01s Real=0,00s
+[2022-05-06T18:59:44.772+0200][info][gc,start     ] GC(5) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.773+0200][info][gc,heap      ] GC(5) DefNew: 17853K->321K(19648K)
+[2022-05-06T18:59:44.773+0200][info][gc,heap      ] GC(5) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:44.773+0200][info][gc,metaspace ] GC(5) Metaspace: 11444K->11444K(135168K)
+[2022-05-06T18:59:44.773+0200][info][gc           ] GC(5) Pause Young (Allocation Failure) 24M->7M(61M) 1,748ms
+[2022-05-06T18:59:44.773+0200][info][gc,cpu       ] GC(5) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:44.818+0200][info][gc,start     ] GC(6) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.820+0200][info][gc,heap      ] GC(6) DefNew: 17793K->309K(19648K)
+[2022-05-06T18:59:44.820+0200][info][gc,heap      ] GC(6) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:44.820+0200][info][gc,metaspace ] GC(6) Metaspace: 11444K->11444K(135168K)
+[2022-05-06T18:59:44.820+0200][info][gc           ] GC(6) Pause Young (Allocation Failure) 24M->7M(61M) 1,882ms
+[2022-05-06T18:59:44.820+0200][info][gc,cpu       ] GC(6) User=0,01s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:44.867+0200][info][gc,start     ] GC(7) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.869+0200][info][gc,heap      ] GC(7) DefNew: 17781K->313K(19648K)
+[2022-05-06T18:59:44.869+0200][info][gc,heap      ] GC(7) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:44.869+0200][info][gc,metaspace ] GC(7) Metaspace: 11444K->11444K(135168K)
+[2022-05-06T18:59:44.869+0200][info][gc           ] GC(7) Pause Young (Allocation Failure) 24M->7M(61M) 1,674ms
+[2022-05-06T18:59:44.869+0200][info][gc,cpu       ] GC(7) User=0,01s Sys=0,01s Real=0,00s
+[2022-05-06T18:59:44.925+0200][info][gc,start     ] GC(8) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.927+0200][info][gc,heap      ] GC(8) DefNew: 17785K->392K(19648K)
+[2022-05-06T18:59:44.927+0200][info][gc,heap      ] GC(8) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:44.927+0200][info][gc,metaspace ] GC(8) Metaspace: 11445K->11445K(135168K)
+[2022-05-06T18:59:44.927+0200][info][gc           ] GC(8) Pause Young (Allocation Failure) 24M->7M(61M) 1,925ms
+[2022-05-06T18:59:44.927+0200][info][gc,cpu       ] GC(8) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:44.987+0200][info][gc,start     ] GC(9) Pause Young (Allocation Failure)
+[2022-05-06T18:59:44.988+0200][info][gc,heap      ] GC(9) DefNew: 17864K->341K(19648K)
+[2022-05-06T18:59:44.988+0200][info][gc,heap      ] GC(9) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:44.988+0200][info][gc,metaspace ] GC(9) Metaspace: 11446K->11446K(135168K)
+[2022-05-06T18:59:44.988+0200][info][gc           ] GC(9) Pause Young (Allocation Failure) 24M->7M(61M) 1,808ms
+[2022-05-06T18:59:44.989+0200][info][gc,cpu       ] GC(9) User=0,01s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.037+0200][info][gc,start     ] GC(10) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.039+0200][info][gc,heap      ] GC(10) DefNew: 17813K->310K(19648K)
+[2022-05-06T18:59:45.039+0200][info][gc,heap      ] GC(10) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:45.039+0200][info][gc,metaspace ] GC(10) Metaspace: 11446K->11446K(135168K)
+[2022-05-06T18:59:45.039+0200][info][gc           ] GC(10) Pause Young (Allocation Failure) 24M->7M(61M) 1,728ms
+[2022-05-06T18:59:45.039+0200][info][gc,cpu       ] GC(10) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.082+0200][info][gc,start     ] GC(11) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.083+0200][info][gc,heap      ] GC(11) DefNew: 17782K->318K(19648K)
+[2022-05-06T18:59:45.083+0200][info][gc,heap      ] GC(11) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:45.083+0200][info][gc,metaspace ] GC(11) Metaspace: 11446K->11446K(135168K)
+[2022-05-06T18:59:45.083+0200][info][gc           ] GC(11) Pause Young (Allocation Failure) 24M->7M(61M) 1,306ms
+[2022-05-06T18:59:45.083+0200][info][gc,cpu       ] GC(11) User=0,00s Sys=0,00s Real=0,01s
+[2022-05-06T18:59:45.131+0200][info][gc,start     ] GC(12) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.133+0200][info][gc,heap      ] GC(12) DefNew: 17790K->315K(19648K)
+[2022-05-06T18:59:45.133+0200][info][gc,heap      ] GC(12) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:45.133+0200][info][gc,metaspace ] GC(12) Metaspace: 11450K->11450K(135168K)
+[2022-05-06T18:59:45.133+0200][info][gc           ] GC(12) Pause Young (Allocation Failure) 24M->7M(61M) 1,757ms
+[2022-05-06T18:59:45.133+0200][info][gc,cpu       ] GC(12) User=0,01s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.184+0200][info][gc,start     ] GC(13) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.185+0200][info][gc,heap      ] GC(13) DefNew: 17787K->309K(19648K)
+[2022-05-06T18:59:45.185+0200][info][gc,heap      ] GC(13) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:45.185+0200][info][gc,metaspace ] GC(13) Metaspace: 11450K->11450K(135168K)
+[2022-05-06T18:59:45.185+0200][info][gc           ] GC(13) Pause Young (Allocation Failure) 24M->7M(61M) 1,729ms
+[2022-05-06T18:59:45.185+0200][info][gc,cpu       ] GC(13) User=0,00s Sys=0,01s Real=0,00s
+[2022-05-06T18:59:45.232+0200][info][gc,start     ] GC(14) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.233+0200][info][gc,heap      ] GC(14) DefNew: 17781K->354K(19648K)
+[2022-05-06T18:59:45.233+0200][info][gc,heap      ] GC(14) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:45.233+0200][info][gc,metaspace ] GC(14) Metaspace: 11456K->11456K(135168K)
+[2022-05-06T18:59:45.233+0200][info][gc           ] GC(14) Pause Young (Allocation Failure) 24M->7M(61M) 1,367ms
+[2022-05-06T18:59:45.233+0200][info][gc,cpu       ] GC(14) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.302+0200][info][gc,start     ] GC(15) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.306+0200][info][gc,heap      ] GC(15) DefNew: 17826K->313K(19648K)
+[2022-05-06T18:59:45.306+0200][info][gc,heap      ] GC(15) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:45.306+0200][info][gc,metaspace ] GC(15) Metaspace: 11457K->11457K(135168K)
+[2022-05-06T18:59:45.306+0200][info][gc           ] GC(15) Pause Young (Allocation Failure) 24M->7M(61M) 3,582ms
+[2022-05-06T18:59:45.306+0200][info][gc,cpu       ] GC(15) User=0,01s Sys=0,00s Real=0,01s
+[2022-05-06T18:59:45.369+0200][info][gc,start     ] GC(16) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.370+0200][info][gc,heap      ] GC(16) DefNew: 17785K->310K(19648K)
+[2022-05-06T18:59:45.370+0200][info][gc,heap      ] GC(16) Tenured: 7163K->7163K(43712K)
+[2022-05-06T18:59:45.370+0200][info][gc,metaspace ] GC(16) Metaspace: 11457K->11457K(135168K)
+[2022-05-06T18:59:45.370+0200][info][gc           ] GC(16) Pause Young (Allocation Failure) 24M->7M(61M) 1,324ms
+[2022-05-06T18:59:45.370+0200][info][gc,cpu       ] GC(16) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.418+0200][info][gc,start     ] GC(17) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.419+0200][info][gc,heap      ] GC(17) DefNew: 17782K->19K(19648K)
+[2022-05-06T18:59:45.419+0200][info][gc,heap      ] GC(17) Tenured: 7163K->7468K(43712K)
+[2022-05-06T18:59:45.419+0200][info][gc,metaspace ] GC(17) Metaspace: 11457K->11457K(135168K)
+[2022-05-06T18:59:45.419+0200][info][gc           ] GC(17) Pause Young (Allocation Failure) 24M->7M(61M) 1,513ms
+[2022-05-06T18:59:45.419+0200][info][gc,cpu       ] GC(17) User=0,01s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.463+0200][info][gc,start     ] GC(18) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.464+0200][info][gc,heap      ] GC(18) DefNew: 17491K->309K(19648K)
+[2022-05-06T18:59:45.464+0200][info][gc,heap      ] GC(18) Tenured: 7468K->7469K(43712K)
+[2022-05-06T18:59:45.464+0200][info][gc,metaspace ] GC(18) Metaspace: 11459K->11459K(135168K)
+[2022-05-06T18:59:45.464+0200][info][gc           ] GC(18) Pause Young (Allocation Failure) 24M->7M(61M) 0,984ms
+[2022-05-06T18:59:45.464+0200][info][gc,cpu       ] GC(18) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.516+0200][info][gc,start     ] GC(19) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.517+0200][info][gc,heap      ] GC(19) DefNew: 17781K->91K(19648K)
+[2022-05-06T18:59:45.517+0200][info][gc,heap      ] GC(19) Tenured: 7469K->7469K(43712K)
+[2022-05-06T18:59:45.517+0200][info][gc,metaspace ] GC(19) Metaspace: 11461K->11461K(135168K)
+[2022-05-06T18:59:45.517+0200][info][gc           ] GC(19) Pause Young (Allocation Failure) 24M->7M(61M) 0,887ms
+[2022-05-06T18:59:45.517+0200][info][gc,cpu       ] GC(19) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.562+0200][info][gc,start     ] GC(20) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.563+0200][info][gc,heap      ] GC(20) DefNew: 17563K->7K(19648K)
+[2022-05-06T18:59:45.563+0200][info][gc,heap      ] GC(20) Tenured: 7469K->7469K(43712K)
+[2022-05-06T18:59:45.563+0200][info][gc,metaspace ] GC(20) Metaspace: 11466K->11466K(135168K)
+[2022-05-06T18:59:45.563+0200][info][gc           ] GC(20) Pause Young (Allocation Failure) 24M->7M(61M) 0,607ms
+[2022-05-06T18:59:45.563+0200][info][gc,cpu       ] GC(20) User=0,00s Sys=0,00s Real=0,00s
+[2022-05-06T18:59:45.760+0200][info][gc,start     ] GC(21) Pause Young (Allocation Failure)
+[2022-05-06T18:59:45.766+0200][info][gc,heap      ] GC(21) DefNew: 17479K->1140K(19648K)
+[2022-05-06T18:59:45.766+0200][info][gc,heap      ] GC(21) Tenured: 7469K->7469K(43712K)
+[2022-05-06T18:59:45.766+0200][info][gc,metaspace ] GC(21) Metaspace: 12515K->12515K(135168K)
+[2022-05-06T18:59:45.766+0200][info][gc           ] GC(21) Pause Young (Allocation Failure) 24M->8M(61M) 5,793ms
+[2022-05-06T18:59:45.766+0200][info][gc,cpu       ] GC(21) User=0,01s Sys=0,00s Real=0,01s
+[2022-05-06T19:01:20.975+0200][info][gc,start     ] GC(22) Pause Young (Allocation Failure)
+[2022-05-06T19:01:20.987+0200][info][gc,heap      ] GC(22) DefNew: 18612K->2175K(19648K)
+[2022-05-06T19:01:20.987+0200][info][gc,heap      ] GC(22) Tenured: 7469K->8520K(43712K)
+[2022-05-06T19:01:20.987+0200][info][gc,metaspace ] GC(22) Metaspace: 15715K->15715K(139264K)
+[2022-05-06T19:01:20.987+0200][info][gc           ] GC(22) Pause Young (Allocation Failure) 25M->10M(61M) 11,875ms
+[2022-05-06T19:01:20.987+0200][info][gc,cpu       ] GC(22) User=0,01s Sys=0,00s Real=0,01s
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ] Heap
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]  def new generation   total 19648K, used 2474K [0x00000000f0000000, 0x00000000f1550000, 0x00000000f5550000)
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]   eden space 17472K,   1% used [0x00000000f0000000, 0x00000000f004aa88, 0x00000000f1110000)
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]   from space 2176K,  99% used [0x00000000f1330000, 0x00000000f154fff8, 0x00000000f1550000)
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]   to   space 2176K,   0% used [0x00000000f1110000, 0x00000000f1110000, 0x00000000f1330000)
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]  tenured generation   total 43712K, used 8520K [0x00000000f5550000, 0x00000000f8000000, 0x0000000100000000)
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]    the space 43712K,  19% used [0x00000000f5550000, 0x00000000f5da2250, 0x00000000f5da2400, 0x00000000f8000000)
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]  Metaspace       used 15772K, capacity 16352K, committed 16896K, reserved 139264K
+[2022-05-06T19:01:21.000+0200][info][gc,heap,exit ]   class space    used 1737K, capacity 1937K, committed 2048K, reserved 122880K
