@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project name="virtual_castellon" default="build">
+    <target name="build">
+        <exec executable="/bin/bash">
+            <arg value="build.sh"></arg>
+        </exec>
+    </target>
+</project>

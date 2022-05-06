@@ -1,0 +1,7 @@
+#Fri May 06 17:26:40 CEST 2022
+base.1=/home/alumno/Escritorio/GPI2/webview/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+path.1=6/classes.dex
+base.0=/home/alumno/Escritorio/GPI2/webview/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
